@@ -1,4 +1,5 @@
 Projeto Seguradora;
 
-Trabalho Poo 3° período;
+Trabalho de orientação a objetos, 3° período;
 
+https://github.com/joaolucasrossato/TrabalhoSeguradora/blob/master/Exercicio%20Seguradora.jpg
